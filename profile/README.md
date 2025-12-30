@@ -1,6 +1,6 @@
 # Jarida Open Source
 
-**Jarida** is an open-source community co-managed by [Liz Wangui (@kui29)](https://github.com/kui29) and [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENYA).  
+**Jarida** is an open-source community co-managed by  [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENYA), [Liz Wangui (@kui29)](https://github.com/kui29),[Emmanuel Oyugi (@exile10)](https://github.com/exile10), [Purity Wanjiru (@Wanjiruu-purity)](https://github.com/wanjiruu-purity) and [Africia Kerubo (@africiak)](https://github.com/Africiak).  
 We provide **solutions to global problems**, with a primary focus on **Africa**, while empowering African talent to grow, collaborate, and gain recognition worldwide.
 
 Our inaugural open-source product is the **Kenyan Sign Language Translator** — the first of many impactful projects to come.
