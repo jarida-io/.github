@@ -38,7 +38,7 @@ Key points:
 ---
 
 ## Contribution
-We welcome contributions from developers worldwide — see [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get started.
+We welcome contributions from developers worldwide — see [CONTRIBUTING.md](https://github.com/jarida-io/.github/blob/main/Contributing.md) for how to get started.
 
 ---
 
