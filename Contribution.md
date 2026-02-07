@@ -128,7 +128,7 @@ Harassment, discrimination, or abusive behavior will not be tolerated.
 If you have questions about contributing, licensing, or commercial use, please contact:
 
 **Jarida**
-[info@jarida.org]
+[info@jarida.io]
 
 ---
 
