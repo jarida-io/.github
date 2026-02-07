@@ -27,7 +27,7 @@ To create and share open, innovative, and practical software that addresses real
 ---
 
 ## License
-This project is licensed under the **Jarida Fair License (JFL)** – see [LICENSE](.github/profile/License.md](https://github.com/jarida-io/.github/blob/main/profile/License.md) for full terms.
+This project is licensed under the **Jarida Fair License (JFL)** – see [LICENSE](https://github.com/jarida-io/.github/blob/main/profile/License.md) for full terms.
 
 Key points:
 - Most Jarida software is open-source and **may be used commercially**.
