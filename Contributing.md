@@ -1,9 +1,9 @@
-# Contributing to Jarida
+# Contributing to  Goose in a Pond
 
 ---
 
-Thank you for your interest in contributing to **Jarida** 🎉
-Jarida is a platform that supports open, transparent storytelling and data-driven projects, while also maintaining sustainable, for-profit initiatives.
+Thank you for your interest in contributing to **Goose in a Pond** 🎉
+Goose in a Pond is a project that seeks to develop privacy first home assistants that utilise AI offline.
 
 We welcome contributions from developers, writers, designers, researchers, and community members.
 
@@ -36,7 +36,7 @@ You can contribute to Jarida in the following ways:
 2. Clone your fork locally:
 
    ```bash
-   git clone https://github.com/your-username/jarida.git
+   git clone https://github.com/jarida-io/goose-in-a-pond.git
    ```
 3. Create a new branch:
 
@@ -74,11 +74,7 @@ To keep the project healthy and maintainable:
 
 By submitting a contribution to Jarida, you agree that:
 
-* Your contribution will be licensed under the **same license as the repository** you are contributing to
-* Open-source repositories typically use the **Apache License 2.0**
-* Repositories or components marked as **Jarida Fair License (JFL)** are governed by the JFL
-
-> ⚠️ This includes an **explicit patent grant** for any patents necessarily infringed by your contribution.
+* Your contribution will be licensed under the **Apache License 2.0** and the **CC by 4.0**.
 
 If you do not agree with these terms, please do not submit a contribution.
 
@@ -132,4 +128,4 @@ If you have questions about contributing, licensing, or commercial use, please c
 
 ---
 
-Thank you for contributing to **Jarida** and helping build a fair, open, and sustainable platform 🚀
+Thank you for contributing to **Goose In a Pond** and helping build a privacy first smart home assistant.
