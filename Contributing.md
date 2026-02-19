@@ -2,7 +2,7 @@
 
 ---
 
-Thank you for your interest in contributing to **Goose in a Pond** 🎉
+Thank you for your interest in contributing to **Goose in a Pond**.
 Goose in a Pond is a project that seeks to develop privacy first home assistants that utilise AI offline.
 
 We welcome contributions from developers, writers, designers, researchers, and community members.
