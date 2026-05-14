@@ -1,101 +1,88 @@
-# Contributing to  Goose in a Pond
+# Contributing to Jarida Open Source
 
 ---
 
-Thank you for your interest in contributing to **Goose in a Pond**.
-Goose in a Pond is a project that seeks to develop privacy first home assistants that utilise AI offline.
+Thank you for your interest in contributing to **Jarida Open Source** — a youth-led, Kenya-based open-source community building technology for public health, inclusive communication, and climate resilience.
 
-We welcome contributions from developers, writers, designers, researchers, and community members.
+We welcome contributions from developers, data scientists, public health researchers, UX designers, writers, translators, and community members.
+
+---
+
+## Our Projects
+
+| Project | Description | Repo |
+|---|---|---|
+| **ClimateShield AI** | AI-powered climate-responsive child immunization alert platform | [climateshield-ai](https://github.com/jarida-io/climateshield-ai) |
+| **Child Immunization Tracker** | Open-source immunization record management for Kenya's national schedule | [Child-Immunization-Tracker](https://github.com/jarida-io/Child-Immunization-Tracker) |
+| **KSL Translator** | Real-time Kenyan Sign Language recognition on Android (76% accuracy, on-device ML) | [kenyan_sign_language_app](https://github.com/jarida-io/kenyan_sign_language_app) |
+| **Goose in a Pond** | Privacy-first offline home assistant using on-device AI | [goose-in-a-pond](https://github.com/jarida-io/goose-in-a-pond) |
+
+Each project has its own `CONTRIBUTING.md` with project-specific setup instructions. Start there for code contributions.
 
 ---
 
 ## Ways to Contribute
 
-You can contribute to Jarida in the following ways:
+You can contribute to any Jarida project by:
 
-* Reporting bugs or issues
-* Suggesting features or improvements
-* Submitting code contributions
-* Improving documentation
-* Reviewing pull requests
-* Contributing articles, datasets, or research (where applicable)
+- Reporting bugs or issues
+- Suggesting features or improvements
+- Submitting code contributions (bug fixes, new features)
+- Improving documentation
+- Contributing training data (KSL Translator, ClimateShield AI ML model)
+- Swahili or other local language translations
+- Reviewing pull requests
+- Contributing articles, datasets, or research
 
 ---
 
 ## Before You Start
 
-* Check existing **Issues** and **Pull Requests** to avoid duplication
-* For major changes, open an issue first to discuss your proposal
-* Ensure your contribution aligns with Jarida’s mission and values
+- Check existing **Issues** and **Pull Requests** in the relevant repo to avoid duplication
+- For major changes, open an issue first to discuss your proposal
+- Ensure your contribution aligns with each project's scope and Jarida's mission
 
 ---
 
-## Getting Started (Code Contributions)
+## General Workflow (All Projects)
 
 1. Fork the repository
-2. Clone your fork locally:
-
-   ```bash
-   git clone https://github.com/jarida-io/goose-in-a-pond.git
-   ```
-3. Create a new branch:
-
-   ```bash
-   git checkout -b feature/short-description
-   ```
-4. Make your changes
-5. Commit with a clear message:
-
-   ```bash
-   git commit -m "Add: clear description of change"
-   ```
-6. Push your branch:
-
-   ```bash
-   git push origin feature/short-description
-   ```
-7. Open a Pull Request
+2. Clone your fork locally
+3. Create a new branch: `git checkout -b feature/short-description`
+4. Make your changes following each project's coding standards (see each repo's `CONTRIBUTING.md`)
+5. Commit with a clear message — we follow [Conventional Commits](https://www.conventionalcommits.org/):
+   `git commit -m "feat: clear description of change"`
+6. Push your branch and open a Pull Request against the project's default branch
 
 ---
 
 ## Contribution Guidelines
 
-To keep the project healthy and maintainable:
-
-* Keep pull requests **focused and reasonably sized**
-* Follow existing **code style and project structure**
-* Write **clear, readable, and well-documented code**
-* Add or update tests where applicable
-* Update documentation if your change affects usage
+- Keep pull requests **focused and reasonably sized**
+- Follow the code style and project structure of each repository
+- Write clear, readable, and documented code
+- Add or update tests where applicable
+- Update documentation if your change affects usage or setup
 
 ---
 
-## Licensing of Contributions (Important)
+## Licensing of Contributions
 
-By submitting a contribution to Jarida, you agree that:
+By submitting a contribution to any Jarida project, you agree that your contribution will be licensed under the **Apache License 2.0**.
 
-* Your contribution will be licensed under the **Apache License 2.0** and the **CC by 4.0**.
-
-If you do not agree with these terms, please do not submit a contribution.
-
----
-
-## Intellectual Property & Patents
-
-* You confirm that you have the right to submit the contribution
-* You agree not to knowingly contribute code or content that infringes third-party rights
-* Patent protection and retaliation clauses apply as defined in the applicable license
+All Jarida repositories are licensed under Apache 2.0 — see the `LICENSE` file in each repository.
 
 ---
 
 ## Reporting Issues
 
-When reporting bugs or issues, please include:
+When reporting bugs, please include:
 
-* A clear and descriptive title
-* Steps to reproduce the issue
-* Expected vs actual behavior
-* Screenshots, logs, or error messages where helpful
+- A clear and descriptive title
+- Steps to reproduce the issue
+- Expected vs. actual behaviour
+- Screenshots, logs, or error messages where helpful
+- Which project and component is affected
 
 ---
 
@@ -103,29 +90,27 @@ When reporting bugs or issues, please include:
 
 All contributors are expected to:
 
-* Be respectful and inclusive
-* Engage constructively and professionally
-* Assume good faith in discussions
+- Be respectful and inclusive
+- Engage constructively and professionally
+- Assume good faith in all discussions
 
-Harassment, discrimination, or abusive behavior will not be tolerated.
+Harassment, discrimination, or abusive behaviour will not be tolerated.
 
 ---
 
 ## Review Process
 
-* Maintainers will review contributions as time allows
-* Feedback or changes may be requested
-* Approved contributions will be merged by a maintainer
+- Maintainers will review contributions as time allows
+- Feedback or changes may be requested before merging
+- Approved contributions will be merged by a maintainer
 
 ---
 
-## Questions or Clarifications
+## Contact
 
-If you have questions about contributing, licensing, or commercial use, please contact:
-
-**Jarida**
-[info@jarida.io]
+**Jarida Open Source**
+hello@jarida.io | [github.com/jarida-io](https://github.com/jarida-io) | [jarida.io](https://jarida.io)
 
 ---
 
-Thank you for contributing to **Goose In a Pond** and helping build a privacy first smart home assistant.
+Thank you for contributing to Jarida Open Source — building Africa-first technology, open for the world.
