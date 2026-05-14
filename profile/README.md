@@ -1,50 +1,48 @@
 # Jarida Open Source
 
-**Jarida** is an open-source community co-managed by  [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENYA), [Liz Wangui (@kui29)](https://github.com/kui29),[Emmanuel Oyugi (@exile10)](https://github.com/exile10), [Purity Wanjiru (@Wanjiruu-purity)](https://github.com/wanjiruu-purity) and [Africia Kerubo (@africiak)](https://github.com/Africiak).  
-We provide **solutions to global problems**, with a primary focus on **Africa**, while empowering African talent to grow, collaborate, and gain recognition worldwide.
+**Jarida** is a youth-led, Kenya-based open-source community building technology for public health, inclusive communication, and climate resilience.
 
-Our inaugural open-source product is the **Kenyan Sign Language Translator** — the first of many impactful projects to come.
+Co-managed by [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENYA), [Liz Wangui (@kui29)](https://github.com/kui29), [Emmanuel Oyugi (@exile10)](https://github.com/exile10), [Purity Wanjiru (@Wanjiruu-purity)](https://github.com/wanjiruu-purity) and [Africia Kerubo (@africiak)](https://github.com/Africiak).
+
+---
+
+## Our Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [**ClimateShield AI**](https://github.com/jarida-io/climateshield-ai) | AI-powered climate-responsive child immunization alert platform — predicts disease outbreak risk 7–14 days ahead and sends SMS/USSD alerts to parents and community health workers | Active |
+| [**Child Immunization Tracker**](https://github.com/jarida-io/Child-Immunization-Tracker) | Open-source immunization record management for Kenya's national immunization schedule, with Africa's Talking SMS/USSD integration | Active |
+| [**KSL Translator**](https://github.com/jarida-io/kenyan_sign_language_app) | Real-time Kenyan Sign Language recognition on Android — 76% accuracy, on-device MediaPipe inference | Active |
+| [**Goose in a Pond**](https://github.com/jarida-io/goose-in-a-pond) | Privacy-first offline home assistant using on-device AI | Active |
 
 ---
 
 ## Vision
-To create and share open, innovative, and practical software that addresses real-world problems while enabling African and global developers to showcase their talent on the world stage.
+
+To build open, practical software that addresses real-world problems in Africa and enables African developers to collaborate and gain global recognition.
 
 ## Philosophy
+
 - Build for **impact**, not just code.
 - Collaborate openly and inclusively.
 - Give credit where credit is due.
-- Respect project usage terms.
-
----
-
-## Repository Structure
-- `/src` – Source code for the current project.
-- `/docs` – Documentation and technical guides.
-- `/examples` – Example implementations.
-- `/contrib` – Community-contributed modules, scripts, and extensions.
 
 ---
 
 ## License
-This project is licensed under the **Jarida Fair License (JFL)** – see [LICENSE](https://github.com/jarida-io/.github/blob/main/profile/License.md) for full terms.
 
-Key points:
-- Most Jarida software is open-source and **may be used commercially**.
-- Projects **explicitly marked "Not For Profit"** may only be used for non-commercial purposes.
-- Any original Jarida software used in other works **must be credited**, unless the project is explicitly marked as free for unrestricted use.
-- **No warranties** and **no liability**: You use our software at your own risk.
+All Jarida repositories are licensed under the **Apache License 2.0** — free to use, modify, and distribute with attribution.
+
+See the `LICENSE` file in each repository, or the [org-level LICENSE](https://github.com/jarida-io/.github/blob/main/LICENSE) for details.
 
 ---
 
-## Contribution
-We welcome contributions from developers worldwide — see [CONTRIBUTING.md](https://github.com/jarida-io/.github/blob/main/Contributing.md) for how to get started.
+## Contributing
+
+We welcome contributions from developers worldwide — see [CONTRIBUTING.md](https://github.com/jarida-io/.github/blob/main/Contributing.md) for how to get started across all projects.
 
 ---
 
-## Maintainers
-- [Liz Wangui (@kui29)](https://github.com/kui29)
-- [Emmanuel Oyugi (@exile10)](https://github.com/exile10)
-- [Purity Wanjiru (@Wanjiruu-purity)](https://github.com/wanjiruu-purity)
-- [Africia Kerubo (@africiak)](https://github.com/Africiak)
-- [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENYA)
+## Contact
+
+**hello@jarida.io** | [jarida.io](https://jarida.io)
