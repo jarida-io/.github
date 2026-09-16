@@ -10,7 +10,7 @@ Co-managed by [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENY
 
 | Project | Description | Status |
 |---|---|---|
-| [**ClimateShield AI**](https://github.com/jarida-io/climateshield-ai) | AI-powered climate-responsive child immunization alert platform — predicts disease outbreak risk 7–14 days ahead and sends SMS/USSD alerts to parents and community health workers | Active |
+| [**ClimateShield**](https://github.com/jarida-io/climateshield-ai) | AI-powered climate-responsive child immunization alert platform — predicts disease outbreak risk 7–14 days ahead and sends SMS/USSD alerts to parents and community health workers | Active |
 | [**Child Immunization Tracker**](https://github.com/jarida-io/Child-Immunization-Tracker) | Open-source immunization record management for Kenya's national immunization schedule, with Africa's Talking SMS/USSD integration | Active |
 | [**KSL Translator**](https://github.com/jarida-io/kenyan_sign_language_app) | Real-time Kenyan Sign Language recognition on Android — 76% accuracy, on-device MediaPipe inference | Active |
 | [**Goose in a Pond**](https://github.com/jarida-io/goose-in-a-pond) | Privacy-first offline home assistant using on-device AI | Active |
