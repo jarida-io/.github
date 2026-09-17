@@ -45,4 +45,4 @@ We welcome contributions from developers worldwide — see [CONTRIBUTING.md](htt
 
 ## Contact
 
-**hello@jarida.io** | [jarida.io](https://jarida.io)
+**support@jarida.io** | [jarida.io](https://jarida.io)
